@@ -13,7 +13,7 @@
 ## Структура проєкту
 
 ```
-goit-algo2-hw-08/
+woolf-algo2-hw-08/
 ├── rate_limiters/
 │   ├── sliding_window.py
 │   ├── throttling.py
@@ -53,7 +53,7 @@ goit-algo2-hw-08/
 `cd woolf-algo2-hw-08`
 
 # Створення та активація віртуального середовища
-`python -m venv venvv
+`python -m venv venv`
 `source venv/bin/activate`  # або `venv\Scripts\activate` на Windows
 
 ### Встановлення залежностей
